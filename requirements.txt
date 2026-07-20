@@ -1,1 +1,1 @@
-C++
+A C++ compiler supporting C++11 or higher (GCC / Clang / MSVC)
